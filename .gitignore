@@ -1,1 +1,4 @@
 clips/*
+credentials/*
+__pycache__
+.vscode
