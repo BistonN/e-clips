@@ -1,5 +1,6 @@
 clips/*
 credentials/*
+images/*
 __pycache__
 .vscode
 token_youtube_v3.pickle
